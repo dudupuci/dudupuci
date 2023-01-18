@@ -1,4 +1,5 @@
-<h1> Conhecimentos! </h1>
+<h1> Principais Stacks e Conhecimentos! </h1>
+<p> Obs: Formado em Análise e Desenvolvimento de Sistemas. Desenvolvedor back-end Java/Kotlin </p>
 
 ![image](https://user-images.githubusercontent.com/98930924/213053534-25dc07bb-5e10-4b35-a253-230ee1952acd.png)
 ![image](https://user-images.githubusercontent.com/98930924/213053552-268f568d-5879-4da0-a529-781e5cc8c4b0.png)
