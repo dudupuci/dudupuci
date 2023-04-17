@@ -15,4 +15,6 @@
 ![image](https://user-images.githubusercontent.com/98930924/213053696-db1127c9-8f55-4c56-a3e6-37b46921e1d8.png)
 ![image](https://user-images.githubusercontent.com/98930924/213053704-e4726263-b1ea-46eb-8da1-dc00a5277037.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudupuci&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudupuci&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
