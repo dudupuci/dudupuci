@@ -1,5 +1,12 @@
-<h1> Principais Stacks e Conhecimentos! </h1>
-<p> Obs: Formado em Análise e Desenvolvimento de Sistemas. Desenvolvedor back-end Java/Kotlin </p>
+<h2>Sobre mim</h2>
+<ul>
+  <li>Formado em Análise e Desenvolvimento de Sistemas</li>
+  <li>Pós Graduando em Desenvolvimento de Sistemas com Java</li>
+  <li>Desenvolvedor Back-end Java/Kotlin</li>
+  </ul>
+  
+<h3> Principais Stacks e Conhecimentos! </h3>
+  <hr>
 
 ![image](https://user-images.githubusercontent.com/98930924/213053534-25dc07bb-5e10-4b35-a253-230ee1952acd.png)
 ![image](https://user-images.githubusercontent.com/98930924/213053552-268f568d-5879-4da0-a529-781e5cc8c4b0.png)
@@ -15,6 +22,16 @@
 ![image](https://user-images.githubusercontent.com/98930924/213053696-db1127c9-8f55-4c56-a3e6-37b46921e1d8.png)
 ![image](https://user-images.githubusercontent.com/98930924/213053704-e4726263-b1ea-46eb-8da1-dc00a5277037.png)
 
+<hr>
+
+<h3>GitHub Stats</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudupuci&show_icons=true&theme=radical)
+<hr>
+
+<h3>Most Used Languages</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudupuci&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
